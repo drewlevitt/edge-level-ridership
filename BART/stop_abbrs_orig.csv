@@ -1,0 +1,196 @@
+Two-Letter Station Code,Station Name,stop_id,stop_name
+RM,Richmond,RICH,Richmond
+RM,Richmond,place_RICH,Richmond
+EN,El Cerrito Del Norte,DELN,El Cerrito Del Norte
+EN,El Cerrito Del Norte,place_DELN,El Cerrito Del Norte
+EP,El Cerrito Plaza,PLZA,El Cerrito Plaza
+EP,El Cerrito Plaza,place_PLZA,El Cerrito Plaza
+NB,North Berkeley,NBRK,North Berkeley
+NB,North Berkeley,place_NBRK,North Berkeley
+BK,Berkeley,,
+AS,Ashby,ASHB,Ashby
+AS,Ashby,place_ASHB,Ashby
+MA,MacArthur,MCAR,MacArthur
+MA,MacArthur,place_MCAR,MacArthur
+19,19th Street Oakland,19TH,19th Street Oakland
+19,19th Street Oakland,place_19TH,19th Street Oakland
+12,12th Street / Oakland City Center,12TH,12th Street / Oakland City Center
+12,12th Street / Oakland City Center,place_12TH,12th Street / Oakland City Center
+LM,Lake Merritt,LAKE,Lake Merritt
+LM,Lake Merritt,place_LAKE,Lake Merritt
+FV,Fruitvale,FTVL,Fruitvale
+FV,Fruitvale,place_FTVL,Fruitvale
+CL,Coliseum,COLS,Coliseum
+CL,Coliseum,place_COLS,Coliseum
+SL,San Leandro,SANL,San Leandro
+SL,San Leandro,place_SANL,San Leandro
+BF,Bayfair,,
+HY,Hayward,HAYW,Hayward
+HY,Hayward,place_HAYW,Hayward
+SH,South Hayward,SHAY,South Hayward
+SH,South Hayward,place_SHAY,South Hayward
+UC,Union City,UCTY,Union City
+UC,Union City,place_UCTY,Union City
+FM,Fremont,FRMT,Fremont
+FM,Fremont,place_FRMT,Fremont
+CN,Concord,CONC,Concord
+CN,Concord,place_CONC,Concord
+PH,Pleasant Hill,,
+WC,Walnut Creek,WCRK,Walnut Creek
+WC,Walnut Creek,place_WCRK,Walnut Creek
+LF,Lafayette,LAFY,Lafayette
+LF,Lafayette,place_LAFY,Lafayette
+OR,Orinda,ORIN,Orinda
+OR,Orinda,place_ORIN,Orinda
+RR,Rockridge,ROCK,Rockridge
+RR,Rockridge,place_ROCK,Rockridge
+OW,West Oakland,WOAK,West Oakland
+OW,West Oakland,place_WOAK,West Oakland
+EM,Embarcadero,EMBR,Embarcadero
+EM,Embarcadero,place_EMBR,Embarcadero
+MT,Montgomery Street,MONT,Montgomery Street
+MT,Montgomery Street,place_MONT,Montgomery Street
+PL,Powell Street,POWL,Powell Street
+PL,Powell Street,place_POWL,Powell Street
+CC,Civic Center,,
+16,16th Street Mission,,
+24,24th Street Mission,,
+GP,Glen Park,GLEN,Glen Park
+GP,Glen Park,place_GLEN,Glen Park
+BP,Balboa Park,BALB,Balboa Park
+BP,Balboa Park,place_BALB,Balboa Park
+DC,Daly City,DALY,Daly City
+DC,Daly City,place_DALY,Daly City
+CM,Colma,COLM,Colma
+CM,Colma,place_COLM,Colma
+CV,Castro Valley,CAST,Castro Valley
+CV,Castro Valley,place_CAST,Castro Valley
+ED,Dublin/Pleasanton,,
+NC,North Concord,,
+WP,Pittsburg/Bay Point,,
+SS,South San Francisco,SSAN,South San Francisco
+SS,South San Francisco,place_SSAN,South San Francisco
+SB,San Bruno,SBRN,San Bruno
+SB,San Bruno,place_SBRN,San Bruno
+SO,San Francisco International Airport,SFIA,San Francisco International Airport
+SO,San Francisco International Airport,place_SFIA,San Francisco International Airport
+MB,Millbrae,place_MLBR,Millbrae
+WD,West Dublin/Pleasanton,,
+OA,Oakland International Airport,,
+WS,Warm Springs,,
+AN,Antioch,ANTC,Antioch
+AN,Antioch,place_ANTC,Antioch
+PC,Pittsburg Center,PCTR,Pittsburg Center
+PC,Pittsburg Center,place_PCTR,Pittsburg Center
+ML,Milpitas,MLPT,Milpitas
+ML,Milpitas,place_MLPT,Milpitas
+BE,Berryessa / North San José,,
+,,BAYF,Bay Fair
+,,place_BAYF,Bay Fair
+,,PHIL,Pleasant Hill / Contra Costa Centre
+,,place_PHIL,Pleasant Hill / Contra Costa Centre
+,,NCON,North Concord / Martinez
+,,place_NCON,North Concord / Martinez
+,,PITT,Pittsburg / Bay Point
+,,place_PITT,Pittsburg / Bay Point
+,,OAKL,Oakland International Airport Station
+,,WDUB,West Dublin / Pleasanton
+,,place_WDUB,West Dublin / Pleasanton
+,,DUBL,Dublin / Pleasanton
+,,place_DUBL,Dublin / Pleasanton
+,,CIVC,Civic Center / UN Plaza
+,,place_CIVC,Civic Center / UN Plaza
+,,16TH,16th Street / Mission
+,,place_16TH,16th Street / Mission
+,,24TH,24th Street / Mission
+,,place_24TH,24th Street / Mission
+,,DBRK,Downtown Berkeley
+,,place_DBRK,Downtown Berkeley
+,,WARM,Warm Springs / South Fremont
+,,place_WARM,Warm Springs / South Fremont
+,,BERY,Berryessa / North San Jose
+,,place_BERY,Berryessa / North San Jose
+,,MLBR,Millbrae (Caltrain Transfer Platform)
+,,12TH_1,Enter/Exit: 13th Street @ Broadway (NW)
+,,12TH_2,Enter/Exit: 13th Street @ Broadway (SE)
+,,12TH_3,Enter/Exit: 12th Street @ Broadway (N)
+,,12TH_4,Enter/Exit: Oakland City Center
+,,12TH_5,Enter/Exit: Frank Ogawa Plaza
+,,12TH_6,Enter/Exit: 12th Street @ Broadway
+,,12TH_7,Enter/Exit: 14th Street @ Broadway
+,,12TH_8,Enter/Exit: 13th Street @ Broadway
+,,16TH_1,Enter/Exit : 16th Street @ Mission Street (NE)
+,,16TH_2,Enter/Exit : 16th Street @ Mission Street (SW)
+,,19TH_1,Enter/Exit : Broadway @ 19th Street (South East)
+,,19TH_2,Enter/Exit : Broadway @ 17th Street (West)
+,,19TH_3,Enter/Exit : Broadway @ 17th Street (East)
+,,19TH_4,Enter/Exit : Broadway @ 20th Street (West)
+,,19TH_5,Enter/Exit : Broadway @ 19th Street (South West)
+,,19TH_6,Enter/Exit : 20th Street Entrance (East)
+,,24TH_1,Enter/Exit : 24th Street @ Mission Street (NE)
+,,24TH_2,Enter/Exit : 24th Street @ Mission Street (SW)
+,,ASHB_1,Enter/Exit : Pedestrian station entrance (WEST)
+,,BALB_1,Enter/Exit : Geneva Ave (West)
+,,BALB_2,Enter/Exit : Geneva Ave (East)
+,,BAYF_1,Enter/Exit : Pedestrian underpass (SW)
+,,BAYF_2,Enter/Exit : Pedestrian underpass (NW)
+,,CAST_1,Enter/Exit : Station entrance
+,,GLEN_1,Enter/Exit : Station entrance
+,,SFIA_1,Enter/Exit : Station entrance
+,,CIVC_1,Enter/Exit : UN Plaza Stairs
+,,CIVC_2,Enter/Exit : Market Street (E Middle)
+,,CIVC_3,Enter/Exit : Market Street @ 7th Street (NW)
+,,CIVC_4,Enter/Exit : Market Street @ 7th Street (NE)
+,,CIVC_5,Enter/Exit : Market Street @ Hyde Street (SW)
+,,CIVC_6,Enter/Exit : Market Street @ 8th Street (SE)
+,,CIVC_7,Enter/Exit : Market Street @ Grove Street (SE)
+,,CIVC_8,Enter/Exit : Market Street South of 8th Street
+,,COLM_2,Enter/Exit : West Entrance
+,,COLS_1,Enter/Exit : Station entrance (South)
+,,FTVL_3,Enter/Exit : Station entrance (South)
+,,FRMT_2,Enter/Exit : Station entrance (South)
+,,PITT_1,Enter/Exit : Station entrance (South)
+,,DELN_2,Enter/Exit : Station entrance (South)
+,,COLS_2,Enter/Exit : Station entrance (North)
+,,FTVL_2,Enter/Exit : Station entrance (North)
+,,FRMT_1,Enter/Exit : Station entrance (North)
+,,DELN_1,Enter/Exit : Station entrance (North)
+,,COLS_4,Enter/Exit : Oakland Airport Connector entrance
+,,CONC_1,Enter/Exit : East entrance
+,,CONC_2,Enter/Exit : West entrance
+,,DBRK_1,Enter/Exit : Shattuck Ave @ Allston Way (West)
+,,DBRK_2,Enter/Exit : Shattuck Ave @ Allston Way (East)
+,,DBRK_3,Enter/Exit : Shattuck Ave @ Addison Street (West)
+,,DBRK_4,Enter/Exit : Shattuck Ave @ Addison Street (East)
+,,EMBR_1,Enter/Exit : Market @ Spear Street (SE)
+,,EMBR_2,Enter/Exit : Market @ Drumm Street (NE)
+,,EMBR_3,Enter/Exit : Market @ Davis Street (North)
+,,EMBR_4,Enter/Exit : Market Street @ Main Street (South)
+,,EMBR_5,Enter/Exit : Market Street @ Front Street (NW)
+,,EMBR_6,Enter/Exit : Market Street @ Fremont Street (SW)
+,,LAKE_1,Enter/Exit : Oak Street @ 8th Street (SW)
+,,LAKE_2,Enter/Exit : Oak Street @ 8th Street (SE)
+,,LAKE_3,Enter/Exit : Oak Street @ 9th Street (NE)
+,,LAKE_4,Enter/Exit : 8th Street @ Fallon St (East)
+,,MLBR_5,Enter/Exit : Station entrance (SW)
+,,MLBR_2,Enter/Exit : Station entrance (NE)
+,,MONT_1,Enter/Exit : Market @ Post Street (NW)
+,,MONT_2,Enter/Exit : Market (SW)
+,,MONT_3,Enter/Exit : Market @ Montgomery Street (NE)
+,,MONT_4,Enter/Exit : Market @ 2nd Street (South)
+,,MONT_5,Enter/Exit : Sutter Street
+,,MONT_6,Enter/Exit : Sansome Street
+,,MONT_7,Enter/Exit : Market Street (SE)
+,,POWL_1,Enter/Exit : Market Street @ 4th Street (NE)
+,,POWL_2,Enter/Exit : Market Street @ 4th Street (SE)
+,,POWL_3,Enter/Exit : Stockton Street
+,,POWL_4,Enter/Exit : Market Street @ Ellis Street
+,,POWL_5,Enter/Exit : Market Street @ 4th Street (South)
+,,POWL_6,Enter/Exit : Market Street @ 5th Street (NE)
+,,POWL_7,Enter/Exit : Escalator to Market Street and Cable Cars
+,,POWL_8,Enter/Exit : Market Street @ 5th Street
+,,SBRN_3,Enter/Exit : Station entrance (East)
+,,SHAY_3,Enter/Exit : Station entrance (East)
+,,SBRN_4,Enter/Exit : Station entrance (West)
+,,MLPT_1,Enter/Exit: Station entrance
+,,BERY_1,Enter/Exit: Station entrance

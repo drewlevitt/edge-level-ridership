@@ -1,0 +1,51 @@
+short_id,stop_id,stop_name
+12,12TH,12th Street / Oakland City Center
+16,16TH,16th Street / Mission
+19,19TH,19th Street Oakland
+24,24TH,24th Street / Mission
+AN,ANTC,Antioch
+AS,ASHB,Ashby
+BP,BALB,Balboa Park
+BF,BAYF,Bay Fair
+BE,BERY,Berryessa / North San Jose
+CV,CAST,Castro Valley
+CC,CIVC,Civic Center / UN Plaza
+CM,COLM,Colma
+CL,COLS,Coliseum
+CN,CONC,Concord
+DC,DALY,Daly City
+BK,DBRK,Downtown Berkeley
+EN,DELN,El Cerrito Del Norte
+ED,DUBL,Dublin / Pleasanton
+EM,EMBR,Embarcadero
+FM,FRMT,Fremont
+FV,FTVL,Fruitvale
+GP,GLEN,Glen Park
+HY,HAYW,Hayward
+LF,LAFY,Lafayette
+LM,LAKE,Lake Merritt
+MA,MCAR,MacArthur
+MB,MLBR,Millbrae
+ML,MLPT,Milpitas
+MT,MONT,Montgomery Street
+NB,NBRK,North Berkeley
+NC,NCON,North Concord / Martinez
+OA,OAKL,Oakland International Airport Station
+OR,ORIN,Orinda
+PC,PCTR,Pittsburg Center
+PH,PHIL,Pleasant Hill / Contra Costa Centre
+WP,PITT,Pittsburg / Bay Point
+EP,PLZA,El Cerrito Plaza
+PL,POWL,Powell Street
+RM,RICH,Richmond
+RR,ROCK,Rockridge
+SL,SANL,San Leandro
+SB,SBRN,San Bruno
+SO,SFIA,San Francisco International Airport
+SH,SHAY,South Hayward
+SS,SSAN,South San Francisco
+UC,UCTY,Union City
+WS,WARM,Warm Springs / South Fremont
+WC,WCRK,Walnut Creek
+WD,WDUB,West Dublin / Pleasanton
+OW,WOAK,West Oakland
